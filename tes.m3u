@@ -1,0 +1,6 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
+
+#EXTINF:0 catchup="vod" catchup-source="https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd?begin={Y:31536000+m:26280022+d:86400+H:3600+M:60+S}$end={Y:31536000+m:26280022+d:86400+H:3600+M:60+S}" catchup-days="3" tvg-logo="https://billing.mncplay.id/asset/image/logo-mnc-play.png" group-title="Nasional", GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz||R{SSM}|
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
