@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
 
-#EXTINF:0 catchup="vod" catchup-source="https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd?begin={S}&end={S}" catchup-days="7" tvg-logo="https://billing.mncplay.id/asset/image/logo-mnc-play.png" group-title="Nasional", TVN Premium Indonesia
+#EXTINF:0 catchup="vod" catchup-source="https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd?begin={1655460000+{UTC:S}}&end={1655478000+{UTC:S}}" catchup-days="7" tvg-logo="https://billing.mncplay.id/asset/image/logo-mnc-play.png" group-title="Nasional", TVN Premium Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz||R{SSM}|
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
